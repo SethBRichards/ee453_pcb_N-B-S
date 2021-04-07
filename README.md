@@ -1,2 +1,7 @@
 # ee453_pcb_N-B-S
- ee453 pcb repo
+ 
+ This repository hold the schematic files and PCB files for our EE 453 Capstone Project
+ 
+ Bennett Wilson
+ Nolan Kim
+ Seth Richards
