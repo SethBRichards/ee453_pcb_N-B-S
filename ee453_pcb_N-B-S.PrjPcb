@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
 [Document3]
+DocumentPath=ee453_pcb_N-B-S.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFVLFNGU
+
+[Document4]
 DocumentPath=PowerSupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDMGWCQI
 
-[Document4]
+[Document5]
 DocumentPath=Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCYMZLLS
 
-[Document5]
+[Document6]
 DocumentPath=TILaunchpad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTIFJECL
 
-[Document6]
+[Document7]
 DocumentPath=BoostStage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCRZNITG
 
-[Document7]
+[Document8]
 DocumentPath=DriveModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRWUFYCL
 
-[Document8]
+[Document9]
 DocumentPath=ee453_pcb_N-B-S.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJJQYMEK
 
-[Document9]
+[Document10]
 DocumentPath=ee453_pcb_N-B-S.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=hallsensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTKHBQID
 
-[Document11]
+[Document12]
 DocumentPath=positionsensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTFKCKMD
 
-[Document12]
+[Document13]
 DocumentPath=24VSensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSDMCEPJ
 
-[Document13]
+[Document14]
 DocumentPath=48VSensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
