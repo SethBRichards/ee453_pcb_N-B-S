@@ -1,0 +1,29 @@
+Added Component: Designator=BS-L1(B66366B1018T001)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B66366B1018T001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "http://www.arrow.com/en/products/b66366b1018t001/epcos-tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1620179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "38.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B66366B1018T001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B66366B1018T001?qs=w5o0Loj0u7MIqxMJwOyApA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-1
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-2
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-3
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-4
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-5
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-6
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-7
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-8
+Added Pin To Net: NetName=24V-To-Boost Pin=BS-L1-9
+Added Pin To Net: NetName=Inductor Pin=BS-L1-10
+Added Pin To Net: NetName=Inductor Pin=BS-L1-11
+Added Pin To Net: NetName=Inductor Pin=BS-L1-12
+Added Pin To Net: NetName=Inductor Pin=BS-L1-13
+Added Pin To Net: NetName=Inductor Pin=BS-L1-14
+Added Pin To Net: NetName=Inductor Pin=BS-L1-15
+Added Pin To Net: NetName=Inductor Pin=BS-L1-16
+Added Pin To Net: NetName=Inductor Pin=BS-L1-17
+Added Pin To Net: NetName=Inductor Pin=BS-L1-18
+Added Member To Class: ClassName=Boost Stage Member=Component BS-L1 B66366B1018T001
+Change Room Name: Old Name=Designator_4 New Name=Designator

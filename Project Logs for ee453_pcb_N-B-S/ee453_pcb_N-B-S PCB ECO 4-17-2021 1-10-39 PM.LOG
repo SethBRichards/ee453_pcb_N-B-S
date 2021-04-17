@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Designator Member=S24-C1
+Removed Member From Class: ClassName=Designator Member=S24-C2
+Removed Member From Class: ClassName=Designator Member=S24-IC1
+Removed Member From Class: ClassName=Designator Member=S24-IC2
+Removed Member From Class: ClassName=Designator Member=S24-R1
+Removed Member From Class: ClassName=Designator Member=S24-R2
+Removed Member From Class: ClassName=Designator Member=S24-R3
+Removed Member From Class: ClassName=Designator Member=S48-C1
+Removed Member From Class: ClassName=Designator Member=S48-IC
+Removed Member From Class: ClassName=Designator Member=S48-R1
+Removed Member From Class: ClassName=Designator Member=S48-R2
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
