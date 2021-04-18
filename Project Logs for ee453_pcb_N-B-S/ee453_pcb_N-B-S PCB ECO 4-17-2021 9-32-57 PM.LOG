@@ -1,0 +1,29 @@
+Added Component: Designator=BS-MOS1(TO254P483X1016X1994-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irfb4615pbf/infineon-technologies-ag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://static6.arrow.com/aropdfconversion/fc085eb00e813bec65c58b34c53aeea1d8b02a1f/irfb4615pbf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRFB4615PBF?qs=9%252BKlkBgLFf20BbweusQYXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=BS-MOS2(TO254P483X1016X1994-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irfb4615pbf/infineon-technologies-ag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://static6.arrow.com/aropdfconversion/fc085eb00e813bec65c58b34c53aeea1d8b02a1f/irfb4615pbf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRFB4615PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRFB4615PBF?qs=9%252BKlkBgLFf20BbweusQYXA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HO Pin=BS-MOS1-1
+Added Pin To Net: NetName=+48 Pin=BS-MOS1-2
+Added Pin To Net: NetName=Inductor Pin=BS-MOS1-3
+Added Pin To Net: NetName=LO Pin=BS-MOS2-1
+Added Pin To Net: NetName=Inductor Pin=BS-MOS2-2
+Added Pin To Net: NetName=NetBS-C2_1 Pin=BS-MOS2-3
+Added Member To Class: ClassName=Boost Stage Member=Component BS-MOS1 IRFB4615PBF
+Added Member To Class: ClassName=Boost Stage Member=Component BS-MOS2 IRFB4615PBF
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
