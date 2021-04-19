@@ -1,0 +1,16 @@
+Added Component: Designator=PS-PS1(RS32433S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RS3-243.3S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rs3-243.3s/recom-power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/rs3-243.3s/recom-power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RECOM Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RS3-243.3S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "919-RS3-243.3S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=919-RS3-243.3S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PS-PS1-1
+Added Pin To Net: NetName=24V After Fuse Pin=PS-PS1-2
+Added Pin To Net: NetName=+3.3 Pin=PS-PS1-6
+Added Pin To Net: NetName=GND Pin=PS-PS1-7
+Added Member To Class: ClassName=PowerSupply Member=Component PS-PS1 RS3-243.3S
+Added Room: Name=Designator
+Added Room: Name=Designator

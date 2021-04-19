@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Designator Member=SP-IC
+Change Net Name : Old Net Name=NetS2448-C1_2 New Net Name=24V to Follower
+Change Net Name : Old Net Name=NetS2448-C2_2 New Net Name=48V to Follower
+Added Member To Class: ClassName=PowerSupply Member=Component PS-PS3 RS3-2415S
+Added Room: Name=Designator
+Added Room: Name=Designator

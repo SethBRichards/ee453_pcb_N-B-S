@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=S24-C1-1
+Removed Pin From Net: NetName=Analog 24V- To-TI Pin=S24-IC1-1
+Removed Pin From Net: NetName=Analog 24V- To-TI Pin=S24-IC1-2
+Removed Pin From Net: NetName=GND Pin=S24-IC1-4
+Removed Pin From Net: NetName=+3.3 Pin=S24-IC1-8
+Removed Pin From Net: NetName=+24 Pin=S24-R1-2
+Removed Pin From Net: NetName=GND Pin=S24-R2-1
+Removed Pin From Net: NetName=GND Pin=S48-C1-1
+Removed Pin From Net: NetName=Analog 48V- To-TI Pin=S48-IC-1
+Removed Pin From Net: NetName=Analog 48V- To-TI Pin=S48-IC-2
+Removed Pin From Net: NetName=GND Pin=S48-IC-4
+Removed Pin From Net: NetName=+3.3 Pin=S48-IC-8
+Removed Pin From Net: NetName=+48 Pin=S48-R1-2
+Removed Pin From Net: NetName=GND Pin=S48-R2-1
+Change Component Designator: OldDesignator=S24-C2 NewDesignator=S2448-C3
+Change Component Designator: OldDesignator=S24-IC2 NewDesignator=S2448-IC2
+Change Component Designator: OldDesignator=S24-R3 NewDesignator=S2448-R5
+Added Component: Designator=RV?(V68ZS10P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/varistors/littelfuse_varistor_za_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "V68ZS10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-V68ZS10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/V68ZS10P?qs=1%2FWRN91BpNvIRlTsONWDiQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-C1(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150pF"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-C2(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-IC1(DIP794W53P254L959H508Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LMC6482IN/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmc6482innopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lmc6482"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMC6482IN/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LMC6482IN/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMC6482IN-NOPB?qs=QbsRYf82W3EByDDrj8Vijg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-R1(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "210k"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-R2(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "26k"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-R3(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310k"; VariantName = "[No Variations]"
+Added Component: Designator=S2448-R4(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S2448-C1-1
+Added Pin To Net: NetName=GND Pin=S2448-C2-1
+Added Pin To Net: NetName=Analog 24V- To-TI Pin=S2448-IC1-1
+Added Pin To Net: NetName=Analog 24V- To-TI Pin=S2448-IC1-2
+Added Pin To Net: NetName=GND Pin=S2448-IC1-4
+Added Pin To Net: NetName=Analog 48V- To-TI Pin=S2448-IC1-6
+Added Pin To Net: NetName=Analog 48V- To-TI Pin=S2448-IC1-7
+Added Pin To Net: NetName=+3.3 Pin=S2448-IC1-8
+Added Pin To Net: NetName=+24 Pin=S2448-R1-2
+Added Pin To Net: NetName=GND Pin=S2448-R2-1
+Added Pin To Net: NetName=+48 Pin=S2448-R3-2
+Added Pin To Net: NetName=GND Pin=S2448-R4-1
+Change Net Name : Old Net Name=NetS24-IC2_6 New Net Name=NetS2448-IC2_6
+Added Pin To Net: NetName=NetS2448-C1_2 Pin=S2448-C1-2
+Added Pin To Net: NetName=NetS2448-C1_2 Pin=S2448-IC1-3
+Added Pin To Net: NetName=NetS2448-C1_2 Pin=S2448-R1-1
+Added Pin To Net: NetName=NetS2448-C1_2 Pin=S2448-R2-2
+Added Net: Name=NetS2448-C1_2
+Added Pin To Net: NetName=NetS2448-C2_2 Pin=S2448-C2-2
+Added Pin To Net: NetName=NetS2448-C2_2 Pin=S2448-IC1-5
+Added Pin To Net: NetName=NetS2448-C2_2 Pin=S2448-R3-1
+Added Pin To Net: NetName=NetS2448-C2_2 Pin=S2448-R4-2
+Added Net: Name=NetS2448-C2_2
+Added Member To Class: ClassName=Boost Stage Member=Component RV? V68ZS10P
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TI Launchpad

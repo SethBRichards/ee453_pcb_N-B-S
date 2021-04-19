@@ -1,0 +1,21 @@
+Added Component: Designator=SP-IC(SOP40P640X120-20N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC245ADGVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc245adgvr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc245a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC245ADGVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC245ADGVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC245ADGVR?qs=OorDGPQ79ErH2VKzCctyvg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=SP-IC-1
+Added Pin To Net: NetName=hallInA Pin=SP-IC-2
+Added Pin To Net: NetName=hallInB Pin=SP-IC-3
+Added Pin To Net: NetName=hallInC Pin=SP-IC-4
+Added Pin To Net: NetName=GND Pin=SP-IC-10
+Added Pin To Net: NetName=Pot C- To-TI Pin=SP-IC-16
+Added Pin To Net: NetName=Pot B- To-TI Pin=SP-IC-17
+Added Pin To Net: NetName=Pot A- To-TI Pin=SP-IC-18
+Added Pin To Net: NetName=+3.3 Pin=SP-IC-20
+Added Member To Class: ClassName=PowerSupply Member=Component PS-PS1 RS3-243.3S
+Added Member To Class: ClassName=PowerSupply Member=Component PS-PS3 RS3-2415S
+Change Room Name: Old Name=Designator_3 New Name=Designator

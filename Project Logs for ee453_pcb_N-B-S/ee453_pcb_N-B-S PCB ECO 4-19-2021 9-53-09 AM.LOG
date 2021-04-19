@@ -1,0 +1,12 @@
+Added Component: Designator=PS-C8(CAPPRD350W65D800H1650)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS2A470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eeu-fs2a470/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/EEU-FS2A470.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEU-FS2A470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEU-FS2A470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-FS2A470?qs=w%2Fv1CP2dgqrDlaRaE647gA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PowerSupply Member=Component PS-C8 EEU-FS2A470
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator
