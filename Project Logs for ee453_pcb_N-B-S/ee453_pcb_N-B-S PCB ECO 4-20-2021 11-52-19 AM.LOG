@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWM-C-Bot Pin=TI-U1-33
+Removed Pin From Net: NetName=PWM-C-Top Pin=TI-U1-34
+Removed Pin From Net: NetName=PWM-B-Bot Pin=TI-U1-36
+Removed Pin From Net: NetName=PWM-B-Top Pin=TI-U1-37
+Added Pin To Net: NetName=PWM-C-Bot Pin=TI-U1-31
+Added Pin To Net: NetName=PWM-C-Top Pin=TI-U1-32
+Added Pin To Net: NetName=PWM-B-Bot Pin=TI-U1-35
+Added Pin To Net: NetName=PWM-B-Top Pin=TI-U1-36
+Change Room Name: Old Name=Designator_3 New Name=Designator

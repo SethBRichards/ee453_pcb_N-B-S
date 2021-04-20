@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Analog IL- To-TI Pin=TI-U1-8
+Removed Pin From Net: NetName=Analog 24V- To-TI Pin=TI-U1-27
+Removed Pin From Net: NetName=Analog 48V- To-TI Pin=TI-U1-28
+Removed Pin From Net: NetName=Throttle Pin=TI-U1-70
+Removed Pin From Net: NetName=PWM-C-Bot Pin=TI-U1-72
+Removed Pin From Net: NetName=PWM-C-Top Pin=TI-U1-73
+Removed Pin From Net: NetName=PWM-B-Bot Pin=TI-U1-74
+Removed Pin From Net: NetName=PWM-B-Top Pin=TI-U1-75
+Removed Pin From Net: NetName=PWM-A-Bot Pin=TI-U1-76
+Removed Pin From Net: NetName=PWM-A-Top Pin=TI-U1-77
+Added Pin To Net: NetName=PWM-C-Bot Pin=TI-U1-33
+Added Pin To Net: NetName=PWM-C-Top Pin=TI-U1-34
+Added Pin To Net: NetName=PWM-B-Bot Pin=TI-U1-36
+Added Pin To Net: NetName=PWM-B-Top Pin=TI-U1-37
+Added Pin To Net: NetName=PWM-A-Bot Pin=TI-U1-39
+Added Pin To Net: NetName=PWM-A-Top Pin=TI-U1-40
+Added Pin To Net: NetName=Analog 48V- To-TI Pin=TI-U1-45
+Added Pin To Net: NetName=Analog 24V- To-TI Pin=TI-U1-46
+Added Pin To Net: NetName=Analog IL- To-TI Pin=TI-U1-48
+Added Pin To Net: NetName=Throttle Pin=TI-U1-63
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Analog 48V- To-TI Pin=TI-U1-45
+Removed Pin From Net: NetName=Analog 24V- To-TI Pin=TI-U1-46
+Added Pin To Net: NetName=Analog 48V- To-TI Pin=TI-U1-66
+Added Pin To Net: NetName=Analog 24V- To-TI Pin=TI-U1-67
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

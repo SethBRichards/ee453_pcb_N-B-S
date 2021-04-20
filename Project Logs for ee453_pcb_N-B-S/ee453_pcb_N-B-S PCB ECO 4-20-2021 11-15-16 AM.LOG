@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Pot C- To-TI Pin=TI-U1-51
+Removed Pin From Net: NetName=Pot B- To-TI Pin=TI-U1-52
+Removed Pin From Net: NetName=Pot A- To-TI Pin=TI-U1-53
+Added Pin To Net: NetName=Pot C- To-TI Pin=TI-U1-71
+Added Pin To Net: NetName=Pot B- To-TI Pin=TI-U1-72
+Added Pin To Net: NetName=Pot A- To-TI Pin=TI-U1-73
+Change Room Name: Old Name=Designator_3 New Name=Designator

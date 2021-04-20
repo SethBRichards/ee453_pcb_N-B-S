@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Pot C- To-TI Pin=TI-U1-10
+Removed Pin From Net: NetName=Analog B- To-TI Pin=TI-U1-23
+Removed Pin From Net: NetName=PWM-B-Bot Pin=TI-U1-35
+Removed Pin From Net: NetName=PWM-B-Top Pin=TI-U1-36
+Removed Pin From Net: NetName=NetJ1_2 Pin=TI-U1-46
+Removed Pin From Net: NetName=Analog 24V- To-TI Pin=TI-U1-48
+Removed Pin From Net: NetName=Analog 48V- To-TI Pin=TI-U1-63
+Removed Pin From Net: NetName=Analog A- To-TI Pin=TI-U1-69
+Removed Pin From Net: NetName=Analog IL- To-TI Pin=TI-U1-70
+Removed Pin From Net: NetName=PWM-A-Bot Pin=TI-U1-75
+Removed Pin From Net: NetName=PWM-A-Top Pin=TI-U1-76
+Removed Pin From Net: NetName=PWM-C-Bot Pin=TI-U1-77
+Removed Pin From Net: NetName=PWM-C-Top Pin=TI-U1-78
+Added Pin To Net: NetName=Analog IL- To-TI Pin=TI-U1-8
+Added Pin To Net: NetName=Analog A- To-TI Pin=TI-U1-23
+Added Pin To Net: NetName=Analog B- To-TI Pin=TI-U1-24
+Added Pin To Net: NetName=Analog 24V- To-TI Pin=TI-U1-27
+Added Pin To Net: NetName=Analog 48V- To-TI Pin=TI-U1-28
+Added Pin To Net: NetName=Pot C- To-TI Pin=TI-U1-51
+Added Pin To Net: NetName=NetJ1_2 Pin=TI-U1-70
+Added Pin To Net: NetName=PWM-C-Bot Pin=TI-U1-72
+Added Pin To Net: NetName=PWM-C-Top Pin=TI-U1-73
+Added Pin To Net: NetName=PWM-B-Bot Pin=TI-U1-74
+Added Pin To Net: NetName=PWM-B-Top Pin=TI-U1-75
+Added Pin To Net: NetName=PWM-A-Bot Pin=TI-U1-76
+Added Pin To Net: NetName=PWM-A-Top Pin=TI-U1-77
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
