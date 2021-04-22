@@ -261,6 +261,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTFKCKMD
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ee453_pcb_N-B-S\Design Rule Check - ee453_pcb_N-B-S.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
