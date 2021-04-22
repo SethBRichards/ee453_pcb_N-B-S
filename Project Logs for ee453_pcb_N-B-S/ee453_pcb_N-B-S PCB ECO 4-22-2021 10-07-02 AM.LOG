@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=D LOW 1 Pin=BS-D1-1
+Added Pin To Net: NetName=D LOW 1 Pin=BS-D2-1
+Added Pin To Net: NetName=D LOW 1 Pin=BS-R2-2
+Added Pin To Net: NetName=D LOW 1 Pin=BS-R4-2
+Added Net: Name=D LOW 1
+Change Room Name: Old Name=Designator_3 New Name=Designator
