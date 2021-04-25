@@ -1,0 +1,40 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ee453_pcb_N-B-S.GBR   4/25/2021  1:17:50 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Power Layer                             
+.G1                 Signal layer                            
+.G2                 Ground layer                            
+.GBL                Extra signal layer                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM6                Mechanical 6                            
+.GM7                Mechanical 7                            
+.GM8                Top Assembly                            
+.GM9                Top Component Center                    
+.GM10               Mechanical 10                           
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical - C2000 Outline              
+.GM20               Bottom Assembly                         
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GM24               Bottom Component Center                 
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
