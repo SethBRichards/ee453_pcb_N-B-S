@@ -1,10 +1,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ee453_pcb_N-B-S.PcbDoc   4/25/2021  9:34:13 PM
+NCDrill File Report For: ee453_pcb_N-B-S.PcbDoc   4/27/2021  7:17:49 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Power Layer to Extra signal layer
 ASCII RoundHoles File : ee453_pcb_N-B-S-RoundHoles.TXT
 ASCII SlotHoles File : ee453_pcb_N-B-S-SlotHoles.TXT
+EIA File   : ee453_pcb_N-B-S.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
